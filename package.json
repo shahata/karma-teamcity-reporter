@@ -1,5 +1,5 @@
 {
-  "name": "karma-teamcity-reporter",
+  "name": "karma-teamcity-reporter-shahata",
   "version": "0.1.2",
   "description": "A Karma plugin. Report results for Teamcity CI.",
   "main": "index.js",
